@@ -1,19 +1,19 @@
-# CONSTITUTION OF THE ROTARY CLUB OF BEAUFORT PERTH INC.
+# CONSTITUTION OF THE ROTARY CLUB OF MAYLANDS INC.
 
 Registered in Western Australia under the Associations Incorporation Act 2015 Section 10(1)
 
 Registered Number A1025782B
 
-Resolved at the Special General Meeting of members duly convened and held on 6 December 2018.
+Resolved at the Special General Meeting of members duly convened and held on 13 September 2023.
 
 ## ARTICLE I NAME OF THIS CLUB
 The name of this organization shall be:
-> ROTARY CLUB OF BEAUFORT PERTH, WESTERN AUSTRALIA, AUSTRALIA INC.
+> ROTARY CLUB OF MAYLANDS, WESTERN AUSTRALIA, AUSTRALIA INC.
 > (Member of Rotary International)
 
 ## ARTICLE II LOCALITY OF THIS CLUB
 The locality of this Club is as follows:
-> Generally, but not restricted to, the area of Beaufort Street, Highgate WA and surrounding area.
+> Generally, but not restricted to, the city of Maylands, Bayswater WA, and surrounding area.
 
 ## ARTICLE III OBJECTS AND PURPOSES OF THIS CLUB
 
@@ -127,16 +127,16 @@ As used in this constitution, unless the context otherwise clearly requires, the
 7. **Year:** The twelve-month period which begins on 1 July.
 
 ## ARTICLE 1-2 Name
-The name of this organization shall be Rotary Club of Beaufort Perth Inc.
+The name of this organization shall be Rotary Club of Maylands Inc.
 (Member of Rotary International)
 
-a. The name of a satellite of this club (when applicable) shall be Rotary Satellite Club of Beaufort Perth (A satellite of Rotary Club of Beaufort Perth)
+a. The name of a satellite of this club (when applicable) shall be Rotary Satellite Club of Maylands (A satellite of Rotary Club of Maylands)
 
 ## ARTICLE 1-3 Purposes
 The purposes of this club are to pursue the Object of Rotary, carry out successful service projects based on the Five Avenues of Service, contribute to the advancement of Rotary by strengthening membership, support The Rotary Foundation, and develop leaders beyond the club level.
 
 ## ARTICLE 1-4 Locality of the Club
-> The locality of this club is as follows: Generally, but not restricted to, the area of Beaufort Street, Highgate WA and surrounding area.
+> The locality of this club is as follows: Generally, but not restricted to, the city of Maylands, Bayswater WA, and surrounding area.
 
 ## ARTICLE 1-5 Object
 The Object of Rotary is to encourage and foster the ideal of service as a basis of worthy enterprise and, in particular, to encourage and foster:
