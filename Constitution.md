@@ -137,7 +137,7 @@ The purposes of this club are to pursue the Object of Rotary, carry out successf
 
 ## ARTICLE 1-4 Locality of the Club
 The locality of this club is as follows:
- > Generally, but not restricted to, the suburb of Maylands, city of Bayswater WA, and surrounding area.
+> Generally, but not restricted to, the suburb of Maylands, city of Bayswater WA, and surrounding area.
 
 ## ARTICLE 1-5 Object
 The Object of Rotary is to encourage and foster the ideal of service as a basis of worthy enterprise and, in particular, to encourage and foster:
