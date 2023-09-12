@@ -94,17 +94,17 @@ As a Rotarian engaged in a business or profession, I am expected to:
 -- _(RI Council on Legislation, 1989)_
 
 ### Five Avenues of Service
-Based on the Object of Rotary, the Five Avenues of Service are Rotary's philosophical cornerstone and the foundation on which club activity is based:
+Rotary's five Avenues of Service are the philosophical and practical framework for the work of this Rotary club.
 
-**Club Service** focuses on strengthening fellowship and ensuring the effective functioning of the club.
+1. **Club Service**, the first Avenue of Service, involves action a member should take within this club to help it function successfully.
 
-**Community Service** covers the projects and activities the club undertakes to improve life in its community.
+2. **Vocational Service**, the second Avenue of Service, has the purpose of promoting high ethical standards in businesses and professions, recognising the worthiness of all dignified occupations, and fostering the ideal of service in the pursuit of all vocations. The role of members includes conducting themselves and their businesses in accordance with Rotary's principles and lending their vocational skills to club-developed projects in order to address the issues and needs of society.
 
-**International Service** encompasses actions taken to expand Rotary's humanitarian reach around the globe and to promote world understanding and peace.
+3. **Community Service**, the third Avenue of Service, comprises varied efforts the members make, sometimes in conjunction with others, to improve the quality of life of those who live within the club's locality or municipality _by striving for positive peace in the community_.
 
-**Vocational Service** encourages Rotarians to serve others through their vocations and to practice high ethical standards.
+4. **International Service**, the fourth Avenue of Service, comprises those activities that member do to advance international understanding, goodwill, and _positive_ peace by fostering acquaintance with people of other countries, their cultures, customs, accomplishments, aspirations, and problems, through reading and correspondence and through cooperations in all club activities and projects designed to help people in other lands.
 
-**Youth Service** recognizes the positive change implemented by youth and young adults through leadership development activities, involvement in community and international service projects, and exchange programs that enrich and foster world peace and cultural understanding.
+5. **Youth Service**, the fifth Avenue of Service, recognises the positive change implemented by youth and young adults through leadership development activities, involvement in community and international service projects, and exchange programs that enrich and foster _positive_ world peace and cultural understanding.
 
 ## Schedule One - Standard Rotary Club Constitution endorsed by Council on Legislation of Rotary International in April 2019
 (The bylaws of Rotary International provide that each club admitted to membership in RI shall adopt this prescribed standard club constitution. Under Article IV(1) this Club adopts the standard Articles specified by Rotary International as promulgated from time to time by the Council on Legislation. For reference purposes the article numbers are prefaced by "1-" referring to this schedule.)
@@ -122,7 +122,7 @@ As used in this constitution, unless the context otherwise clearly requires, the
 
 5. **RI:** Rotary International.
 
-6. **Satellite club:** A potential club whose members shall also be members (when applicable): of this club.
+6. **Satellite club (when applicable):** A potential club whose members shall also be members of a club.
 
 7. **Year:** The twelve-month period which begins on 1 July.
 
@@ -196,7 +196,7 @@ a. An annual meeting to elect and present a mid-year report, including current y
 b. A satellite club shall hold an annual meeting of its members before 31 December to elect officers for the satellite club.
 
 ### Section 3 - Board Meetings.
-Within 60 days after all board meetings, written minutes should be available to all members.
+Within 30 days after all board meetings, written minutes should be available to all members.
 
 ## ARTICLE 1-8 Membership
 
@@ -210,12 +210,12 @@ This club shall have two types of membership, active and honorary. Clubs may cre
 A person who possesses the qualifications in article 5, section 2 of the RI constitution may be elected as an active club member.
 
 ### Section 4 - Satellite Club Members.
-Members of a satellite club of this club shall also be members of this club until the satellite club is admitted to RI membership as a Rotary club.
+Members of a satellite club of this club shall also be members of a club until the satellite club is admitted to RI membership as a Rotary club.
 
 ### Section 5 - Prohibited Dual Memberships. 
 No member shall simultaneously
 
-a. Belong to this and another club other than a satellite of this club, or
+a. Belong to this and another club other than a satellite of a club, or
 
 b. Be an honorary member in this club.
 
@@ -276,7 +276,7 @@ If a member works on a distant assignment for an extended period of time, attend
 ### Section 3 - Absence Because of Other Rotary Activities. 
 An absence does not require a make-up if, at the time of the meeting, the member is:
 
-a. travelling with reasonable directness to or from one of the meetings specified in sub-section (1)(d)(7);
+a. traveling with reasonable directness to or from one of the meetings specified in sub-section (1)(d)(7);
 
 b. serving as an officer or member of an RI committee or as a TRF trustee;
 
@@ -296,7 +296,7 @@ A member's absence shall be excused if:
 
 a. the board approves it for reasons, conditions, and circumstances it considers good and sufficient. Such excused absences shall not last longer than 12 months. However, if a leave is taken for medical reasons, follows the birth or adoption of a child, or takes place during foster care of a child, the board may extend it beyond the original 12 months.
 
-b. The sum of a member's age and years of membership in one or more clubs is 85 years or more, the member has been a Rotarian for at least 20 years, the member has notified the club secretary in writing of a desire to be excused from attendance, and the board has approved.
+b. The sum of a member's age and years of membership in one or more clubs is 85 years or more, the member has been a Rotarian for at least 20 years, the member has notified the club secretary in writing of a desire to be excused from attendance, and only these requirements are taken into consideration.
 
 ### Section 6 - Attendance Records. 
 When a member whose absences are excused under subsection 5(a) of this article does not attend a club meeting, the member and the absence shall not be included in the attendance records. If a member whose absences are excused under section 4 or subsection 5(b) of this article attends a club meeting, the member and the attendance shall be included in this club's membership and attendance figures.
@@ -358,15 +358,11 @@ Membership shall continue during the existence of this club unless terminated as
 
 #### Section 2 - Automatic Termination.
 
-a. _Exceptions._ Membership shall automatically terminate when a member no longer meets the membership qualifications, except that when a member moves from the locality of this club or the surrounding area, but continues to meet all conditions of club membership, the board may:
+Membership shall automatically terminate when a member no longer meets the membership qualifications.
 
-    1. allow a member to remain in this club; or
+a. _Rejoining._ When a member in good standing has their membership terminated, that person may apply for membership again, under the same or another business, profession, occupation, community service, or other classification.
 
-    2. grant a special leave of absence, not to exceed one year, to enable the member to visit and become known to a club in the new community.
-
-b. _Rejoining._ When a member in good standing has their membership terminated as described in subsection (a), that person may apply for membership again, under the same or another business, profession, occupation, community service, or other classification.
-
-c. _Termination of Honorary Membership._ Honorary membership shall automatically terminate at the end of the term of membership set by the board unless extended. The board may revoke an honorary membership at any time.
+b. _Termination of Honorary Membership._ Honorary membership shall automatically terminate at the end of the term of membership set by the board unless extended. The board may revoke an honorary membership at any time.
 
 ### Section 3 - Termination Non-payment of Dues.
 
