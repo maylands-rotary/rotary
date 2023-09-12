@@ -13,7 +13,7 @@ The name of this organization shall be:
 
 ## ARTICLE II LOCALITY OF THIS CLUB
 The locality of this Club is as follows:
-> Generally, but not restricted to, the city of Maylands, Bayswater WA, and surrounding area.
+> Generally, but not restricted to, the suburb of Maylands, city of Bayswater WA, and surrounding area.
 
 ## ARTICLE III OBJECTS AND PURPOSES OF THIS CLUB
 
@@ -136,7 +136,8 @@ a. The name of a satellite of this club (when applicable) shall be Rotary Satell
 The purposes of this club are to pursue the Object of Rotary, carry out successful service projects based on the Five Avenues of Service, contribute to the advancement of Rotary by strengthening membership, support The Rotary Foundation, and develop leaders beyond the club level.
 
 ## ARTICLE 1-4 Locality of the Club
-> The locality of this club is as follows: Generally, but not restricted to, the city of Maylands, Bayswater WA, and surrounding area.
+The locality of this club is as follows:
+ > Generally, but not restricted to, the suburb of Maylands, city of Bayswater WA, and surrounding area.
 
 ## ARTICLE 1-5 Object
 The Object of Rotary is to encourage and foster the ideal of service as a basis of worthy enterprise and, in particular, to encourage and foster:
